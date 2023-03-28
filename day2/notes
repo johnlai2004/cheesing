@@ -1,0 +1,91 @@
+If Statements
+
+- 1hr Loops
+- 1hr functions
+- 1hr web server
+- 1hr html programming
+- 1hr css programing
+
+
+------------------------
+Data Types
+Variable
+Most simple data types, we call Primitive Data Types
+
+Primitive Data Types
+	- integer
+	- float 16 decimal places /decimal
+	- character  "a" "j" "a"
+		- string  "house"
+	- boolean
+		true  (1asdoif aoskdfa sdoifj)
+		false (0 "")
+
+var x = 6+7;
+
+IF Statement  (conditional)
+	Operators
+		> greater than
+			4 > 4  --> false
+			5 > 4  --> true
+			3 > 4  --> false		
+		< less than
+			4 < 4  --> false
+			5 < 4  --> false
+			3 < 4  --> true
+		>= greater than or equal to
+			4 >= 4  --> true
+			5 >= 4  --> true
+			3 >= 4  --> false
+		<= less than or equal to
+			4 <= 4  --> true
+			5 <= 4  --> false
+			3 <= 4  --> true
+		== equal to
+			4 == 4   --> true
+			4 == 5   --> false
+			4 = 4  variable assignment
+		!= not equal to
+			4 != 4  --> false
+			5 != 4  --> true
+
+
+-------
+File Path
+
+	Relative Path
+		C:\Users\User>node Documents\programming\example1.txt
+	Absolute Path
+		C:\Users\User>node C:\Users\User\Documents\programming\example1.txt
+
+	Latitude Longtidue
+
+--------
+
+C:\Users\User>node example1.txt
+asdifuhn aoisdfji aosjdfa
+sdfasodiofhasio
+
+C:\Users\User>node Documents\programming\example1.txt
+4
+5
+
+cd Documents
+cd programming
+node example1.txt
+
+
+KERNAL (CLI COmmand Line Interface)
+
+- cd  (change directory)
+   - cd Documents
+   - cd ..
+
+- dir (list directory contents)
+- mkdir (make directory)
+- rmdir (remove directory)
+- copy example1.txt example2.txt
+- cls
+
+
+Graphic User Interface (GUI)

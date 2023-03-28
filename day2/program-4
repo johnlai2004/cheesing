@@ -1,0 +1,11 @@
+var variable1 = true;
+var variable2 = false;
+
+/*
+console.log(variable1);
+console.log(variable2);
+*/
+
+var statement1 = ((4+300/390)*430) < ((3 + 100)^59);
+
+console.log(statement1);

@@ -1,0 +1,12 @@
+
+
+var x = 6;
+
+var statement = x <= 9;
+
+// = variable assignment
+if (statement) {
+	console.log("Yes, x is the value 9");
+}
+
+console.log(x);

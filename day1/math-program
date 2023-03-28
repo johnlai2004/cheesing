@@ -1,0 +1,7 @@
+var y = 2;
+y = 5;
+y = 7.8059;
+
+var x = 2 + y;
+
+console.log(x);

@@ -1,0 +1,22 @@
+var word = "Dictionary";
+var primeNumber = 13;
+// var primeNumber = "13";
+
+var result = primeNumber + word;
+
+console.log(result);
+
+
+var sentence1 = "I love to eat pizza.";
+
+var sentence2 = "I want to go to the movies.";
+
+var sentence3 = "Can you make dinner?";
+
+var mystory = sentence1 + sentence2 + sentence3;
+//console.log(mystory);  // "Comment out"
+
+
+console.log(sentence1 + sentence2 + sentence3);
+
+console.log(sentence1 + "I love to ride my bicycle");

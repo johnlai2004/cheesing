@@ -1,0 +1,5 @@
+var favouriteletter = "Y";
+var favouritefood = "noodles";
+
+console.log(favouriteletter);
+console.log(favouritefood);

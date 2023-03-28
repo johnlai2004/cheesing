@@ -1,0 +1,27 @@
+
+
+var usersAge = 89;
+
+var votingAge = 18;
+
+/*
+if(variable1) {
+	console.log("variable1 is true");
+}
+*/
+
+
+if(usersAge > votingAge) {
+	console.log("You can vote!");
+	console.log("Please go to this address _____.   Then talk to the administrator for voting ticket.")
+} else {
+	console.log("I are too young to vote.");
+}
+
+
+if(key == 100){
+	console.log("Your car is moving to the left")
+}
+if(key == 101) {
+	console.log("Your car is moving to the right")
+}
