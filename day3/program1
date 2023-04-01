@@ -1,0 +1,37 @@
+
+// AND LOGIC
+var isGreaterThan18 = true;
+var hasDriverLicense = false;
+var hasToyotaCorolla = true;
+var canDrive = isGreaterThan18 && hasDriverLicense && hasToyotaCorolla;
+
+console.log(canDrive);
+
+var age = 1;
+var isGreaterThan18_2 = age + 2 >= 18;
+var hasDriverLicense_2 = false;
+var hasToyotaCorolla_2 = true;
+var canDrive_2 = isGreaterThan18_2 && hasDriverLicense_2 && hasToyotaCorolla_2;
+
+
+console.log(canDrive_2);
+
+// OR LOGIC
+
+var atePizza = true;
+var ateHotDog = false;
+var ateRice = false;
+
+var iAmFull = atePizza || ateHotDog || ateRice;
+
+console.log(iAmFull);
+
+
+var v1 = true;
+var v2 = false;
+var v3 = true;
+
+var statement = (v1 || v2) && v3;
+var statement2 = v1 || v2 && v3;
+
+// Must evaluate to a boolean
